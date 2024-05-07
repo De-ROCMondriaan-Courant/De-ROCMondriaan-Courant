@@ -1,0 +1,6 @@
+# any code editor local settings:
+.idea/
+.vscode/
+
+# Template file
+/template.html
